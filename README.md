@@ -4,7 +4,7 @@ Este projeto implementa um controle de semáforo utilizando um Raspberry Pi Pico
 
 🛠️ Requisitos
 
-*Raspberry Pi Pico\n
+*Raspberry Pi Pico
 *3 LEDs (vermelho, amarelo e verde)
 *3 resistores (330Ω)
 *Fios de conexão
